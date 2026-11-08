@@ -1,7 +1,7 @@
 [project]
 name = "pythonrefresher"
 version = "0.1.0"
-description = "Add your description here"
+description = "A collection of Python fundamentals and practice examples"
 readme = "README.md"
 authors = [
     { name = "tusharpatgar", email = "117505866+tusharpatgar@users.noreply.github.com" }
